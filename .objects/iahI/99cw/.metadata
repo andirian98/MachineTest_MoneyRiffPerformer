@@ -1,0 +1,12 @@
+﻿{
+  "Id": "99cwEwtb30mxnC6bqbk9RA",
+  "Reference": "oia-g_azf0GksiTvTAyz9w/99cwEwtb30mxnC6bqbk9RA",
+  "ParentRef": "oia-g_azf0GksiTvTAyz9w/iahI2r3xzUOdzlV_rSVE2Q",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2023-02-08T03:24:02.0286799Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.1.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-08T03:24:02.0286799Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "_GWTJ5qKtUmUrv9JnPaiHQ",
+  "Reference": "oia-g_azf0GksiTvTAyz9w/_GWTJ5qKtUmUrv9JnPaiHQ",
+  "ParentRef": "oia-g_azf0GksiTvTAyz9w/_eWFk6oiRUCOejOvMCn_PA",
+  "Name": "NAV (Rs.) 43.17",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-02-07T09:26:35.3070012Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.1.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-07T09:26:35.3070012Z"
+}

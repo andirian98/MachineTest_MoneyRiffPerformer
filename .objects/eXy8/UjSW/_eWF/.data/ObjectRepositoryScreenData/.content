@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="inIniEMFfk2uwsgzpzDlXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFMSURBVFhH7Ze9isJAFIWnyTMkhb02YiPYWPoSvoAvYGHto/godqvZdcFCdgkbEAJWVgFht7k7R4zcyc71Z5nRZg6cMEzuz8edFBNFTFEUURzHlCSJF6M2enCdAZQyWLyK9zquHtm8UtVT1UcCveiXr46NmnWht8K5cC104NqTUZsLvRU+jkqgtCW6NJ8EehsAGJUtyaXRo9JdAD/bLZVpavg7yyhrt88x79rFaET72YzK1YrKzYaK8dio8y8AnlRX3unQUr/fTSanHVPYl2o5Afjq9+mgpyPJO8A1BYDddCrWcgJQzudUDIeU93qUnmJhrLNWiz4aDbGWE4DPZtOaI9k5QN7tWnMkB4AAEAACQAC4CHDpUiopHwys8ZL/XEpvvZa/aYOeG3u2WMnWa/nTf0yweOqv2fGp9UgI3svoipHgXPBx+DBqm0dO9Aty/IHYsE2V1gAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' htmlwindowname='m0b1RtQv' title='Nippon India ETF Nifty PSU Bank BeES - Regular Plan - Live BSE, NSE, Stock Prices, Expert Stock Advice, Share Market Updates : Rediff.com' /&gt;" Title="Nippon India ETF Nifty PSU Bank BeES - Regular Plan - Live BSE, NSE, Stock Prices, Expert Stock Advice, Share Market Updates : Rediff.com" Url="https://money.rediff.com/mutual-funds/nippon-india-etf-nifty-psu-bank-bees---regular-plan/14053523/2066">
+      <imageRef attrName="InformativeScreenshot" originalValue="b76e960cba0dbff864ed866a3bd7946b.jpg" xmlns="">0JTaMqgHsvUef9zhRfBoFUg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
